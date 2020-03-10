@@ -17,3 +17,4 @@ b 5 5 5 5 d d 4 4 4 4 . . . . .
 4 d d d 4 4 4 . . . . . . . . . 
 4 4 4 4 . . . . . . . . . . . . 
 `, 0)
+controller.moveSprite(mySprite)
